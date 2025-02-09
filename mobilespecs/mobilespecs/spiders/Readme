@@ -1,0 +1,4 @@
+Hello I am Sujoy, here I have implimented a spider you can start the spider via. using
+"scrapy crawl mobiles"
+This startes the spider which is in the script mobiles_spider.py which is named as "mobiles".
+Further you can see the extracted data into the scrapy configuration file named "mobiles_specs.csv"
